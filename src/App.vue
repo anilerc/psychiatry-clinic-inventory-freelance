@@ -1,4 +1,4 @@
-<template>
+ <template>
   <div class="maindiv">
     <div>
       <home-page v-if="currentPage === 1"></home-page>
